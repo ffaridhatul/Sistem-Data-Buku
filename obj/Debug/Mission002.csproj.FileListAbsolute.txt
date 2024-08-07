@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Mission002\Mission002\bin\Debug\Mission002.exe.config
+C:\Users\Lenovo\source\repos\Mission002\Mission002\bin\Debug\Mission002.exe
+C:\Users\Lenovo\source\repos\Mission002\Mission002\bin\Debug\Mission002.pdb
+C:\Users\Lenovo\source\repos\Mission002\Mission002\obj\Debug\Mission002.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Mission002\Mission002\obj\Debug\Mission002.FormDelete.resources
+C:\Users\Lenovo\source\repos\Mission002\Mission002\obj\Debug\Mission002.FormInput.resources
+C:\Users\Lenovo\source\repos\Mission002\Mission002\obj\Debug\Mission002.FormOutput.resources
+C:\Users\Lenovo\source\repos\Mission002\Mission002\obj\Debug\Mission002.FormSearch.resources
+C:\Users\Lenovo\source\repos\Mission002\Mission002\obj\Debug\Mission002.MainForm.resources
+C:\Users\Lenovo\source\repos\Mission002\Mission002\obj\Debug\Mission002.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Mission002\Mission002\obj\Debug\Mission002.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Mission002\Mission002\obj\Debug\Mission002.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Mission002\Mission002\obj\Debug\Mission002.exe
+C:\Users\Lenovo\source\repos\Mission002\Mission002\obj\Debug\Mission002.pdb
